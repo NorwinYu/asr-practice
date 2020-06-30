@@ -1,2 +1,10 @@
-# asr_assignment
-Code for the assignment of the ASR course for 2020
+# asr-practice
+
+```
+Code base: https://github.com/Ore-an/asr_assignment
+WFST ASR system
+```
+
+
+
+
